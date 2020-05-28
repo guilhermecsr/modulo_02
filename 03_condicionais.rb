@@ -8,9 +8,7 @@ sexo = 'M'
 
 sexo == 'M' ? (puts 'Masculino') : (puts 'Feminino')
 
-
 #case
-
 print 'Digite um idade: '
 idade = gets.chomp.to_i
 
@@ -26,7 +24,6 @@ else
 end
 
 #unless / a menos que
-
 print 'Digite um numero: '
 x = gets.chomp.to_i
 
@@ -36,13 +33,10 @@ else
   puts 'x eh maior que 2'
 end
 
-
 #if
-
 print 'Digite um numero: '
 x = gets.chomp.to_i
 
 if x > 2
   puts 'x eh maior que 2'
 end
-
