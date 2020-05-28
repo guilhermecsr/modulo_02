@@ -1,0 +1,10 @@
+puts "Canibal".object_id
+puts "Canibal".object_id
+puts "Canibal".object_id
+puts "Canibal".object_id
+puts "===================="
+puts :Canibal.object_id
+puts :Canibal.object_id
+puts :Canibal.object_id
+puts :Canibal.object_id
+puts :Canibal.object_id
